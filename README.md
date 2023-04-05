@@ -1,1 +1,1 @@
-# Stroke-Prediction-Data-Science-
+# Stroke Prediction Data-Science
