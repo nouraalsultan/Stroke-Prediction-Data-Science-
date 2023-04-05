@@ -6,7 +6,7 @@
 In this project, we utilized data science techniques to analyze a stroke prediction dataset. Our approach involved several key steps, including data preparation, cleaning, and exploratory data analysis. We also conducted feature engineering and explored the relationships and correlations between variables. In addition, we applied several classification models, including logistic regression, SVM (with experimentation using different parameters), and KNN. To ensure the robustness of our results, we also resampled the data using SMOTE and printed a confusion matrix to compare the performance of the different models. Overall, this project demonstrates the power of data science in uncovering insights and making predictions based on complex datasets.
 
 ## Project Report
-[PDF Project Report](Report-DS .pdf) to learn more about this project. 
+https://github.com/nouraalsultan/Stroke-Prediction-Data-Science-/blob/main/Report-DS%20.pdf to learn more about this project. 
 
 <!-- technology -->
 ## Built With
